@@ -1,4 +1,4 @@
-This work includes testing and improvement tools for CVE-2021-44228(log4j).
+**This work includes testing and improvement tools for CVE-2021-44228(log4j).**
 
 💥 Title: log4j-patcher
 💥 Description: Java Agent that disables Apache Log4J's JNDI Lookup. Quick-fix for CVE-2021-44228

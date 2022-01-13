@@ -1,4 +1,3 @@
-# log4j_github_repository
 This work includes testing and improvement tools for CVE-2021-44228(log4j).
 
 💥 Title: log4j-patcher

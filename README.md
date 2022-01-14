@@ -10,7 +10,7 @@ Scanning or POC
 📌 Description: Log4j2 CVE-2021-44228 Reproduction and echo utilization  
 📌 Url: https://github.com/binganao/Log4j2-RCE 
 
-📌 Title: jndi-ldap-test-server 
+📌 Title: jndi-ldap-test-server  
 📌 Description: A minimalistic LDAP server that is meant for test vulnerability to JNDI+LDAP injection attacks in Java, especially CVE-2021-44228     
 📌 Url: https://github.com/rakutentech/jndi-ldap-test-server    
 
@@ -18,7 +18,7 @@ Scanning or POC
 📌 Description: Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell  
 📌 Url: https://github.com/Cybereason/Logout4Shell  
 
-📌 Title: sample-ldap-exploit
+📌 Title: sample-ldap-exploit	
 📌 Description: A short demo of CVE-2021-44228
 📌 Url: https://github.com/phoswald/sample-ldap-exploit
 
@@ -80,7 +80,7 @@ Scanning or POC
 📌 Description: A lab for playing around with the Log4J CVE-2021-44228
 📌 Url: https://github.com/tuyenee/Log4shell
 
-📌 Title: log4j-scanner
+📌 Title: log4j-scanner	
 📌 Description: Simple tool for scanning entire directories for attempts of CVE-2021-44228
 📌 Url: https://github.com/kek-Sec/log4j-scanner-CVE-2021-44228
 
@@ -96,7 +96,10 @@ Scanning or POC
 📌 Description: An automated, reliable scanner for the Log4Shell CVE-2021-44228 vulnerability
 📌 Url: https://github.com/redhuntlabs/Log4JHunt
 
-https://github.com/roxas-tan/CVE-2021-44228
+📌 Title: CVE-2021-44228 (Apache Log4j Remote Code Execution）
+📌 Description: The version of 1.x has other vulnerabilities, it is recommended to update to the latest version.
+📌 Url: https://github.com/roxas-tan/CVE-2021-44228
+
 
 
 

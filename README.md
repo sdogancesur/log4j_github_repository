@@ -4,26 +4,26 @@ Scanning or POC
 
 📌 Title: log4j-shell-poc  
 📌 Description: A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.  
-📌 Url: https://github.com/kozmer/log4j-shell-poc
+📌 Url: https://github.com/kozmer/log4j-shell-poc	
   
 📌 Title: Log4j2-RCE  
 📌 Description: Log4j2 CVE-2021-44228 Reproduction and echo utilization  
-📌 Url: https://github.com/binganao/Log4j2-RCE 
+📌 Url: https://github.com/binganao/Log4j2-RCE	 	
 
-📌 Title: jndi-ldap-test-server  
+📌 Title: jndi-ldap-test-server
 📌 Description: A minimalistic LDAP server that is meant for test vulnerability to JNDI+LDAP injection attacks in Java, especially CVE-2021-44228     
-📌 Url: https://github.com/rakutentech/jndi-ldap-test-server    
+📌 Url: https://github.com/rakutentech/jndi-ldap-test-server	    
 
-📌 Title: Logout4Shell  
+📌 Title: Logout4Shell
 📌 Description: Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell  
-📌 Url: https://github.com/Cybereason/Logout4Shell  
+📌 Url: https://github.com/Cybereason/Logout4Shell	  
 
 📌 Title: sample-ldap-exploit	
 📌 Description: A short demo of CVE-2021-44228
-📌 Url: https://github.com/phoswald/sample-ldap-exploit
+📌 Url: https://github.com/phoswald/sample-ldap-exploit	
 
 📌 Title: Log4j RCE CVE-2021-44228 Exploitation Detection
-📌 Url: https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
+📌 Url: https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b	
 
 📌 Title: Python script to detect if an HTTP server is potentially vulnerable to the log4j 0day RCE
 📌 Url: https://gist.github.com/byt3bl33d3r/46661bc206d323e6770907d259e009b6
@@ -68,13 +68,13 @@ Scanning or POC
 📌 Description: CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter
 📌 Url: https://github.com/cube0x0/noPac
 
-📌 Title: log4j-scan
-📌 Description: A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
-📌 Url: https://github.com/fullhunt/log4j-scan
+📌 Title: log4j-scan	
+📌 Description: A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228		
+📌 Url: https://github.com/fullhunt/log4j-scan	
 
 📌 Title: CVE-2021-44228-Scanner
 📌 Description: Vulnerability scanner for Log4j2 CVE-2021-44228
-📌 Url: https://github.com/logpresso/CVE-2021-44228-Scanner
+📌 Url: https://github.com/logpresso/CVE-2021-44228-Scanner	
 
 📌 Title: Log4J lab
 📌 Description: A lab for playing around with the Log4J CVE-2021-44228
@@ -136,4 +136,3 @@ Defending Eveation
 📌 Title: log4jail
 📌 Description: A fast firewall reverse proxy with TLS (HTTPS) and swarm support for preventing Log4J (Log4Shell aka CVE-2021-44228) attacks.
 📌 Url: https://github.com/mufeedvh/log4jail
-

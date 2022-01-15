@@ -1,6 +1,8 @@
-********This work includes testing and improvement tools for CVE-2021-44228(log4j).********
+# ********This work includes testing and improvement tools for CVE-2021-44228(log4j)********
 
-Scanning or POC
+The purpose of this study is to list useful tools that the blue and red team can use against the Log4j vulnerability. Github links bypass tools, scanning, detection mechanisms, etc. can be used for.
+
+**Scanning or POC**
 
 🔴 Title: log4j-shell-poc  
 🔴 Description: A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.  
@@ -100,11 +102,7 @@ Scanning or POC
 🔴 Description: The version of 1.x has other vulnerabilities, it is recommended to update to the latest version.      
 🔴 Url: https://github.com/roxas-tan/CVE-2021-44228       
 
-
-
-
-
-Defending Eveation
+**Defensive Activities**
 
 🔵 Title: log4j-patcher     
 🔵 Description: Java Agent that disables Apache Log4J's JNDI Lookup. Quick-fix for CVE-2021-44228     
